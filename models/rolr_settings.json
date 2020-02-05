@@ -1,0 +1,1 @@
+{"n_parameters": 2, "features": null, "activation": "relu", "n_observables": 8, "estimator_type": "parameterized_ratio", "n_hidden": [30, 30, 30]}

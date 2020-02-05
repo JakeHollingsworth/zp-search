@@ -3,4 +3,4 @@ import model darkHiggs
 define p = g u c d s u~ c~ d~ s~
 define j = g u c d s u~ c~ d~ s~
 
-generate u u~ > u u~ / a g z
+generate p p > j j QED=2 QCD=2
